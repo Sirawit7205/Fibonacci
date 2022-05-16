@@ -4,7 +4,7 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 4
-Title "I Can Solder Fibonacci THT"
+Title "I Can Solder Fibonacci SMD"
 Date "2021-11-18"
 Rev "1"
 Comp "Sleepy Pony Labs"
